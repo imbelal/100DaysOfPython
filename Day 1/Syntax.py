@@ -12,6 +12,11 @@ def main():
         print(i)
         i = i + 1
 
+    # Python uses a newline character to separate statements. It places each statement on one line.
+    if (True) and (True) and \
+            (True):
+        print("Continuation of statements")
+
 
 # call main function
 main()
