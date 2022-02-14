@@ -17,6 +17,16 @@ def main():
             (True):
         print("Continuation of statements")
 
+    # Python uses single quotes ('), double quotes ("), triple single quotes (''')
+    # and triple-double quotes (""") to denote a string literal.
+    s = 'This is a string'
+    print(s)
+    s = "Another string using double quotes"
+    print(s)
+    s = ''' string can span
+            multiple line '''
+    print(s)
+
 
 # call main function
 main()
