@@ -12,3 +12,8 @@ if(x <= 8):
 
 if(x >= 5 and y <= 10):
     print("It's logical!!")
+
+# Ternary operator: value_if_true if condition else value_if_false
+age = input('Enter your age:')
+ticketPrice = 20 if int(age) >= 18 else 0
+print(ticketPrice)
