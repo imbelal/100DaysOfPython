@@ -15,3 +15,6 @@
   - [A simple command prompt using while loop](https://github.com/imbelal/100DaysOfPython/blob/master/Day%203/SimpleCommandPrompt.py)
   - [Python pass statement](https://github.com/imbelal/100DaysOfPython/blob/master/Day%203/Pass.py)
   - [BMI Calculator](https://github.com/imbelal/100DaysOfPython/blob/master/Day%203/SimpleBMICalculator.py)
+  - [Functions](https://github.com/imbelal/100DaysOfPython/blob/master/Day%204/Functions.py)
+  - [A Simple Calculator](https://github.com/imbelal/100DaysOfPython/blob/master/Day%204/SimpleCalculator.py)
+  - [Leap Year Checker](https://github.com/imbelal/100DaysOfPython/blob/master/Day%204/LeapYear.py)
