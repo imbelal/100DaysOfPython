@@ -18,3 +18,6 @@
   - [Functions](https://github.com/imbelal/100DaysOfPython/blob/master/Day%204/Functions.py)
   - [A Simple Calculator](https://github.com/imbelal/100DaysOfPython/blob/master/Day%204/SimpleCalculator.py)
   - [Leap Year Checker](https://github.com/imbelal/100DaysOfPython/blob/master/Day%204/LeapYear.py)
+  - [List](https://github.com/imbelal/100DaysOfPython/blob/master/Day%205/List.py)
+  - [Tuple](https://github.com/imbelal/100DaysOfPython/blob/master/Day%205/Tuples.py)
+  - [Dictionary](https://github.com/imbelal/100DaysOfPython/blob/master/Day%205/Dictionary.py)
