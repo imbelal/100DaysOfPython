@@ -15,6 +15,16 @@ import Pricing
 
 # from Pricing import get_net_price, get_tax # import multiple methods
 
+# Python will search for the Pricing.py file from the following sources:
+# The current folder from which the program executes.
+# A list of folders specified in the PYTHONPATH environment variable, if you set it before.
+# An installation-dependent list of folders that you configured when you installed Python.
+# Python stores the resulting search path in the sys.path variable that comes from the sys module.
+# Modifying the Python module search path at runtime
+# Python allows you to modify the module search path at runtime by modifying the sys.path variable.
+# This allows you to store module files in any folder of your choice.
+# sys.path.append('d:\\modules\\')
+
 net_price = Pricing.get_net_price(
     price=100,
     tax_rate=0.01
