@@ -21,3 +21,5 @@
   - [List](https://github.com/imbelal/100DaysOfPython/blob/master/Day%205/List.py)
   - [Tuple](https://github.com/imbelal/100DaysOfPython/blob/master/Day%205/Tuples.py)
   - [Dictionary](https://github.com/imbelal/100DaysOfPython/blob/master/Day%205/Dictionary.py)
+  - [Python Set](https://github.com/imbelal/100DaysOfPython/blob/master/Day%206/Set.py)
+  - [Modules](https://github.com/imbelal/100DaysOfPython/tree/master/Day%206/Modules)
