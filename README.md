@@ -25,3 +25,5 @@
   - [Modules](https://github.com/imbelal/100DaysOfPython/tree/master/Day%206/Modules)
   - [Package, Subpackages](https://github.com/imbelal/100DaysOfPython/tree/master/Day%207)
   - [File Read & Write](https://github.com/imbelal/100DaysOfPython/tree/master/Day%208)
+  - [Exception Handling](https://github.com/imbelal/100DaysOfPython/blob/master/Day%209/ExceptionHandling.py)
+  - [Class](https://github.com/imbelal/100DaysOfPython/blob/master/Day%209/Class.py)
