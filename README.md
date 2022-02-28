@@ -28,4 +28,4 @@
   - [Day-9: Exception Handling](https://github.com/imbelal/100DaysOfPython/blob/master/Day%209/ExceptionHandling.py)
   - [Day-9: Class](https://github.com/imbelal/100DaysOfPython/blob/master/Day%209/Class.py)
   - [Day-10: Inheritance](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2010/Inheritance.py)
-  - [Recursive Function](https://github.com/imbelal/100DaysOfPython/tree/master/Day%2011)
+  - [Day-11: Recursive Function](https://github.com/imbelal/100DaysOfPython/tree/master/Day%2011)
