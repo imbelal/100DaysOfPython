@@ -29,3 +29,7 @@
   - [Day-9: Class](https://github.com/imbelal/100DaysOfPython/blob/master/Day%209/Class.py)
   - [Day-10: Inheritance](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2010/Inheritance.py)
   - [Day-11: Recursive Function](https://github.com/imbelal/100DaysOfPython/tree/master/Day%2011)
+  - [Day-12: NumPy Introduction](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2012/NumPy.py)
+  - [Day-12: NumPy Array](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2012/NumPy-Array.py)
+  - [Day-12: NumPy Array Indexing](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2012/NumPy-Array-Indexing.py)
+  - [Day-12: NumPy Array Slicing](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2012/NumPy-Array-Slicing.py)
