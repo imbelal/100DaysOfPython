@@ -16,3 +16,19 @@
     that require fast computation are written in C or C++.
 
 '''
+
+# To install NumPy, you have to run following command
+# pip install NumPy
+
+# To work with NumPy we have toi mport NumPy
+import numpy as np
+import numpy
+arr = numpy.array([1, 2, 3, 4, 5])
+print(arr)
+
+# NumPy as np
+arr = np.array([1, 2, 3, 4, 5])
+print(arr)
+
+# Checking NumPy Version
+print(np.__version__)
