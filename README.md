@@ -33,3 +33,7 @@
   - [Day-12: NumPy Array](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2012/NumPy-Array.py)
   - [Day-12: NumPy Array Indexing](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2012/NumPy-Array-Indexing.py)
   - [Day-12: NumPy Array Slicing](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2012/NumPy-Array-Slicing.py)
+  - [Day-13: NumPy Data Types](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2013/NumPy-Data-Types.py)
+  - [Day-13: NumPy Copy vs View](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2013/NumPy-Copy-VS-View.py)
+  - [Day-13: NumPy Array Shaping](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2013/NumPy-Array-Shape.py)
+  - [Day-13: NumPy Array ReShaping](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2013/NumPy-Array-ReShaping.py)
