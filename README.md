@@ -40,3 +40,6 @@
   - [Day-14: NumPy Array Iterating](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2014/NumPy-Array-Iterating.py)
   - [Day-14: NumPy Array Joining](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2014/NumPy-Array-Joining.py)
   - [Day-14: NumPy Array Splitting](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2014/NumPy-Array-Splitting.py)
+  - [Day-15: NumPy Array Search](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2015/NumPy-Array-Search.py)
+  - [Day-15: NumPy Array Sort](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2015/NumPy-Array-Sort.py)
+  - [Day-15: NumPy Array Filter](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2015/NumPy-Array-Filter.py)
