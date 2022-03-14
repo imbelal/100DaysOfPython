@@ -37,3 +37,6 @@
   - [Day-13: NumPy Copy vs View](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2013/NumPy-Copy-VS-View.py)
   - [Day-13: NumPy Array Shaping](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2013/NumPy-Array-Shape.py)
   - [Day-13: NumPy Array ReShaping](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2013/NumPy-Array-ReShaping.py)
+  - [Day-14: NumPy Array Iterating](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2014/NumPy-Array-Iterating.py)
+  - [Day-14: NumPy Array Joining](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2014/NumPy-Array-Joining.py)
+  - [Day-14: NumPy Array Splitting](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2014/NumPy-Array-Splitting.py)
