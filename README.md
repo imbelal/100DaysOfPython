@@ -43,3 +43,4 @@
   - [Day-15: NumPy Array Search](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2015/NumPy-Array-Search.py)
   - [Day-15: NumPy Array Sort](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2015/NumPy-Array-Sort.py)
   - [Day-15: NumPy Array Filter](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2015/NumPy-Array-Filter.py)
+  - [Day-16: NumPy Random Number Introduction](https://github.com/imbelal/100DaysOfPython/blob/master/Day%2016/NumPy-Random-Number.py)
