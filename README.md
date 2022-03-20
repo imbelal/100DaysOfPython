@@ -1,6 +1,6 @@
 # 100 Days Of Python
 
-### A repository to practise python for 100 days
+### A repository to learn and practise python for 100 days.
 
 
 ## Topics completed
